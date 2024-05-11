@@ -8,9 +8,11 @@ ES = Desarrollé la Calculadora de IMC como mi primer proyecto en el desarrollo 
 PT-BR = Desenvolvi a Calculadora de IMC como meu primeiro projeto em desenvolvimento Android, uma iniciativa que marcou meus primeiros passos nessa jornada. Graças ao desafio 10D da comunidade DevSpace, fui capaz de evoluir significativamente, saindo do ponto inicial e conquistando um novo patamar. Nesta nova versão, concentrei-me em aprimorar a experiência do usuário, tornando-a mais fluida e intuitiva.
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/DevVasconcelos/IMCCalculatorFINAL/assets/141281978/a22f9a26-128a-46b3-963f-4ce0a6d15078" width="260">
-<img src="https://github.com/DevVasconcelos/IMCCalculatorFINAL/assets/141281978/31bdcda4-f166-4ee7-b5db-c2fb1c2772bc" width="260">
-<img src="https://github.com/DevVasconcelos/IMCCalculatorFINAL/assets/141281978/d5faf6b0-8aa3-429d-95ec-31e06e108044" width="260">
+<img src="https://github.com/DevVasconcelos/IMCCalculatorFINAL/assets/141281978/fc0ed6df-6e86-4874-889a-eebad3ca296c" width="260">
+<img src="https://github.com/DevVasconcelos/IMCCalculatorFINAL/assets/141281978/62a7255c-529f-42b6-a17c-2c96098e078d" width="260">
+<img src="https://github.com/DevVasconcelos/IMCCalculatorFINAL/assets/141281978/6f6c7e02-b012-4a73-97b3-687c0c34b36b" width="260">
+<img src="https://github.com/DevVasconcelos/IMCCalculatorFINAL/assets/141281978/caf17520-2bde-42ff-a813-3515bb4e7e63" width="260">
+
 
 ## Tecnologias
 - Activity
