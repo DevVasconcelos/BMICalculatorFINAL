@@ -3,10 +3,7 @@ package com.example.imccalculatorfinal
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.textfield.TextInputEditText
 
@@ -15,12 +12,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Recuperar os componentes EditText
-        // Criar uma variável e associar o componente de UI<EditText
-        // Recuperar o botão da tela
+              // Retrieve the EditText components
+             // Create a variable and associate the UI component <EditText
+            // Retrieve the button from the screen
 
-        // Colocar ação no botão setOnClickListener
-        // Recuperar o texto digitado no edt peso
+           // Add action to the button setOnClickListener
+          // Retrieve the text entered in the weight EditText
+
 
         val edtPeso = findViewById<TextInputEditText>(R.id.edt_peso)
         val edtAltura = findViewById<TextInputEditText>(R.id.edt_altura)
