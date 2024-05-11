@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_400">@color/material_dynamic_tertiary20</color>
+    <color name="primary_900">#4229b2</color>
+    <color name="cor_thinness">#FF0000</color> <!-- vermelho -->
+    <color name="cor_normal">#00FF00</color> <!-- verde -->
+    <color name="cor_overweight">#FFFF00</color> <!-- amarelo -->
+    <color name="cor_obesity">#FFA500</color> <!-- laranja -->
+    <color name="cor_severe_obesity">#7C0000</color> <!-- azul -->
+
+</resources>
