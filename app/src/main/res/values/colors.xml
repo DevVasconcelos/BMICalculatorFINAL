@@ -7,7 +7,7 @@
     <color name="primary_900">#4229b2</color>
     <color name="cor_thinness">#FF0000</color> <!-- vermelho -->
     <color name="cor_normal">#00FF00</color> <!-- verde -->
-    <color name="cor_overweight">#FFFF00</color> <!-- amarelo -->
+    <color name="cor_overweight">#FFC107</color> <!-- amarelo -->
     <color name="cor_obesity">#FFA500</color> <!-- laranja -->
     <color name="cor_severe_obesity">#7C0000</color> <!-- azul -->
 
