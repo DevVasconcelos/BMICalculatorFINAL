@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IMC Calculator FINAL</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
 </resources>
